@@ -1,0 +1,49 @@
+.btnimport {
+  color: "red";
+}
+.exportBtn {
+  background-color: #67016f;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+  font-size: 14px;
+  padding: 10px 30px;
+  align-items: center;
+}
+table {
+  width: 100%;
+  font-size: 13px;
+  padding: 10px;
+  gap: 8px;
+  border-collapse: collapse;
+}
+th {
+  line-height: 22px;
+  padding: 10px 10px;
+  border-bottom: 1px solid #9393936e;
+  border-top: 1px solid #9393936e;
+  top: 0px;
+  z-index: 2;
+  color: black;
+  text-align: center;
+  font-size: 17px;
+  border-left: 1px solid #9393936e;
+  border-right: 1px solid #9393936e;
+  border-bottom: 1px solid #9393936e;
+  min-width: 112px;
+}
+td {
+  margin: 0;
+  padding: 10px 10px;
+  line-height: 22px;
+  border-top: 1px solid #9393936e;
+  border-left: 1px solid #9393936e;
+  border-right: 1px solid #9393936e;
+  border-bottom: 1px solid #9393936e;
+  color: black;
+  text-align: center;
+  font-size: 17px;
+}
+tr {
+  overflow-y: auto;
+}
